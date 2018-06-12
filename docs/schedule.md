@@ -60,8 +60,7 @@ Main Conference Day 2: Friday July 27
 * 9:00 - 9:30 Invited speaker
 * 9:30 - 10:00 Invited speaker
 * 10:00 - 10:30 break
-* 10:30 - 11:00 Invited speaker
-* 11:00 - 12:00 Contributed talks
+* 10:30 - 12:00 Contributed talks
 * 12:00 - 1:00 Lunch / Birds-of-a-feather
 * 1:00 - 2:45 Workshops Session I
 * 2:45 - 3:00 break
