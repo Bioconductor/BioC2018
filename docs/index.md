@@ -4,9 +4,11 @@ layout: default
 # BioC 2018: Where Software and Biology Connect
 
 When: July 25 (Developer Day), 26, and 27, 2018 <br />
-Where: [Victoria University][uvic], University of Toronto, Toronto, Canada
+Where: [Victoria University][uvic], University of Toronto, Toronto, Canada [(more information)][venue] <br />
+Twitter: [#Bioc2018](https://twitter.com/search?q=%23bioc2018&src=typd)
 
 [uvic]: http://www.vicu.utoronto.ca/
+[venue]: http://bioc2018.bioconductor.org/travel-accommodations
 
 This conference highlights current developments within and beyond
 _Bioconductor_. Morning scientific talks and afternoon workshops
@@ -16,10 +18,6 @@ data. 'Developer Day' precedes the main conference on July 25,
 providing developers and would-be developers an opportunity to gain
 insights into project direction and software development best
 practices.
-
-The conference venue is at [Victoria University][uvic] on the downtown
-(St. George) campus of the University of Toronto on the north-east
-edge of Queen's Park. [Map][ut].
 
 More information: [workshop@bioconductor.org][contact]
 
